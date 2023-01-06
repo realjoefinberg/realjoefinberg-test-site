@@ -7,3 +7,6 @@ remote_theme:  realjoefinberg/lanyon
 <body class="theme-base-08">
   ...
 </body>
+<body class="sidebar-overlay">
+  ...
+</body>
