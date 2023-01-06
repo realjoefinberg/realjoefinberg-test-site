@@ -1,12 +1,11 @@
----
-layout: page
-title: About
----
-# realjoefinberg.github.io
-remote_theme:  realjoefinberg/lanyon
-<body class="theme-base-08">
-  ...
-</body>
-<body class="sidebar-overlay">
-  ...
-</body>
+## Contents
+
+- [Usage](#usage)
+- [Options](#options)
+  - [Sidebar menu](#sidebar-menu)
+  - [Themes](#themes)
+  - [Reverse layout](#reverse-layout)
+- [Development](#development)
+- [Author](#author)
+- [License](#license)
+
