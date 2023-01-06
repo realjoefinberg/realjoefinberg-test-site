@@ -4,50 +4,28 @@ Bio and who I am
 
 ## Contents
 
-- [Usage](#usage)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-- [Development](#development)
-- [Author](#author)
+- [Research](#Research)
+  - [Published Papers](#Published-Papers)
+  - [Physics](#physics)
+  - [Political](#Political)
+- [CV](#CV)
+- [Contact](#Contact)
 - [License](#license)
 
 
-## Usage
+## Research
 
+### Published Papers
 
-## Options
+### Physics
 
-
-
-### Sidebar menu
-
-
-
-### Themes
-
-
-
-### Reverse layout
-
-
-
-### Sidebar overlay instead of push
-
-
-### Sidebar open on page load
-
-
-
+### Political
 
 ## Development
 
+## CV
 
-
-## Author
-
-
+## Contact
 
 ## License
 
