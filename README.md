@@ -1,2 +1,2 @@
 # realjoefinberg.github.io
-Personal Website
+remote_theme:  realjoefinberg/lanyon/README.md 
