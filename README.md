@@ -1,10 +1,11 @@
- <title> Joseph S. Finberg  <title>
-### Welcome to my Page
+<html>
+<head>
+  <title>HTML Elements Reference</title>
+</head>
+<body>
 
-```
----
-layout: page
-title: About
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
 
----
-```
+</body>
+</html>
