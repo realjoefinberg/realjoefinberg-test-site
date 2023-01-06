@@ -1,11 +1,11 @@
 <html>
 <head>
-  <title>HTML Elements Reference</title>
+  <title>Joseph S. Finberg</title>
 </head>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<h1>Joseph S. Finberg</h1>
+<p>Text Sample</p>
 
 </body>
 </html>
